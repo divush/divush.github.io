@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+summary: Post 2
+tags: introduction
 ---
 
 
