@@ -12,3 +12,5 @@ tags: jekyll
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+<!-- Internal Link example -->
+For more details check [this]({% post_url 2012-02-07-example-content %}) post.
