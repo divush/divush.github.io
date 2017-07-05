@@ -5,7 +5,7 @@ title: Academics
 <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/acads.css">
 
-I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Computer Science and Engineering ([CSE](cse.iitk.ac.in)) at Indian Institute of Technology Kanpur ([IITK](iitk.ac.in)). The topic of my thesis is trying to solve the Reachability Problem for Mangrove Graphs in Deterministic Logarithmic Space. My advisor for the same is Dr. [Raghunath Tewari](cse.iitk.ac.in/users/rtewari). Apart from this, I am also interested in other areas of computer science. I do not believe much in distictions (makes it easier to classify courses, though) so I am keen on learning about all areas : Theory, Systems and AI/ML. Recently, I have started taking Machine Learning courses at IITK to explore the field. To know more you can find below, my course list and also a list of my projects with appropriate links.
+I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Computer Science and Engineering ([CSE](cse.iitk.ac.in)) at Indian Institute of Technology Kanpur ([IITK](iitk.ac.in)). The topic of my thesis is trying to solve the Reachability Problem for Mangrove Graphs in Deterministic Logarithmic Space. My advisor for the same is Dr. [Raghunath Tewari](cse.iitk.ac.in/users/rtewari). Apart from this, I am also interested in other areas of computer science. I do not believe much in distictions (makes it easier to classify courses, though) so I am keen on learning about all areas : Theory, Systems and AI/ML. Recently, I have started taking Machine Learning courses at IITK to explore the field. To know more you can find below, my course list, resume and also a list of my projects with appropriate links.
 
 <h4> <a class="toplink" href="#Courses"> Courses </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a class="toplink" href="#Projects"> Projects </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="/resume.pdf" target="\_blank"> Resume </a> </h4>
 
@@ -51,7 +51,7 @@ I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Compu
 <i>Operating Systems Course Project</i>
 
 * Partitioning into Expanders (July 15 - Dec 15) <span>
-<a class="projlink" href="http://home.iitk.ac.in/~divush/cs395a/report.pdf" target="\_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"> </i> </a> </span> <br />
+<a class="projlink" href="/cs395a/report.pdf" target="\_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"> </i> </a> </span> <br />
 <i>Under Graduate Project 1</i>
 
 * C# to x86 compiler in Python (Jan 16 - Apr 16) <span>
@@ -63,7 +63,7 @@ I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Compu
 <i> Machine Learning Course Project </i>
 
 * Groupoid Interpretation of Type Theory (July 16 - Nov 16) <span>
-<a class="projlink" href="http://home.iitk.ac.in/~divush/cs498a/report.pdf" target="\_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"> </i></a> </span> <br />
+<a class="projlink" href="/cs498a/report.pdf" target="\_blank"> <i class="fa fa-file-pdf-o" aria-hidden="true"> </i></a> </span> <br />
 <i> Under Graduate Project 2</i>
 
 * Computer Networks Projects (July 16 - Nov 16) <span>
