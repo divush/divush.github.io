@@ -2,7 +2,7 @@
     height: 100%;
     width:100%;
 }
-.mypic img{
+.mypic img {
     border: 1px solid black;
     border-radius: 100%;
     display: block;
@@ -10,6 +10,16 @@
     width: 150px;
     margin-left: 50px;
     margin-bottom: 0;
+}
+
+.thistitle {
+    font-size: 40px;
+    font-family: serif;
+    padding-top: 10px;
+}
+.lead {
+    font-size: 23px;
+    font-family: 'Courgette', cursive;
 }
 .sidebar {
     overflow-y: scroll;
