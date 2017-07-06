@@ -21,6 +21,10 @@ title: chronological
     .year-list{
         padding: 0px;
     }
+
+    .date {
+        float: right;
+    }
 </style>
 <h2> Reverse Chronological Listing of posts </h2>
 <br />
@@ -46,7 +50,7 @@ This is due to a stackoverflow answer https://stackoverflow.com/questions/190862
             {% if post.author == "mdo" %}
                 <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a> (by <a href="http://www.markdotto.com" target="_blank">mdo</a>)</li>
             {% else %}
-                <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></li>
+                <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a><span class="date">{{ post.date | date: "%B %-d"  }}&nbsp&nbsp&nbsp</span></li>
             {% endif %}
             {% if forloop.last %}
             </ul>

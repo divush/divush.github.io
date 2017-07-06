@@ -6,7 +6,7 @@ summary: The story of this site.
 tags: site meta
 ---
 
-***Why did I bother to create this site?***
+***Why did I bother creating this site?***
 
 If you have met me, you would probably be surpirised by this site (conditions apply: if you care enough). The reason is that I was once an avid Computer Science Theorist who denounced the importance of anything that the other branches (Systems, ML) had to do (in my defense: dark times, bad influences). But I did spend about 3-4 days trying to create this website. So why did I do it?
 
