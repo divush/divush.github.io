@@ -21,6 +21,7 @@ gems:
   - redcarpet
   - jekyll-gist
   - pygments.rb
+  - jemoji
 
 paginate:         5
 
@@ -32,3 +33,5 @@ github:
 
 bitbucket:
      repo:        https://bitbucket.org/divyanshu_shende/
+
+emoji_dir:        images/emoji
