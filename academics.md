@@ -10,7 +10,55 @@ I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Compu
 <h4> <a class="toplink" href="#Courses"> Courses </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a class="toplink" href="#Projects"> Projects </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="/resume.pdf" target="\_blank"> Resume </a> </h4>
 
 <div id="Courses"> <h3> Courses </h3> </div>
+<table>
 
+  <tbody>
+    <tr>
+      <td>
+      <h4>Theoretical Computer Science</h4>
+          <ul>
+          <li> Algorithms (1 - 2)</li>
+          <li> Discrete Mathematics</li>
+          <li> Theory of Computation</li>
+          <li> Computational Complexity</li>
+          <li> Programs, Proofs and Types</li>
+          <li> Principles of Programming Languages</li>
+          <li> Markov Chains</li>
+          <li> Algorithmic Game Theory</li>
+          </ul>
+      </td>
+      <td>
+      <h4>Systems</h4>
+          <ul>
+          <li> Operating Systems</li>
+          <li> Computer Networks</li>
+          <li> Computer Organization</li>
+          <li> Computing Laboratory</li>
+          <li> Compiler Design</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td>
+      <h4>Artificial Intelligence and Machine Learning</h4>
+          <ul>
+          <li> Machine Learning Techniques</li>
+          <li> Visual Recognition</li>
+          <li> Human Centered Computing</li>
+          </ul>
+      </td>
+      <td>
+      <h4>Other Courses</h4>
+          <ul>
+          <li> Thermodynamics</li>
+          <li> Probability and Statistics</li>
+          <li> Philosophy of Science</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!--
 - **Theoretical Computer Science**
     * Algorithms (1 - 2)
     * Discrete Mathematics
@@ -37,8 +85,8 @@ I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Compu
     * Thermodynamics
     * Probability and Statistics
     * Philosophy of Science
-
-
+ -->
+<br />
 
 <div id="Projects"> <h3> Projects </h3> </div>
 

@@ -5,6 +5,16 @@
 a.projlink:hover{
     text-decoration: none;
 }
+
+table, th, td {
+    border: 2px solid black;
+    table-layout: fixed;
+}
+
+td {
+    max-width: 50%;
+    vertical-align: top;
+}
 /*.toplink{
     color: rgb(84, 126, 212);
 }*/
