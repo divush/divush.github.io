@@ -7,7 +7,7 @@ title: Academics
 
 I am currently pursuing a B.Tech - M.Tech Dual Degree in the Department of Computer Science and Engineering ([CSE](cse.iitk.ac.in)) at Indian Institute of Technology Kanpur ([IITK](iitk.ac.in)). The topic of my thesis is trying to solve the Reachability Problem for Mangrove Graphs in Deterministic Logarithmic Space. My advisor for the same is Dr. [Raghunath Tewari](cse.iitk.ac.in/users/rtewari). Apart from this, I am also interested in other areas of computer science. I do not believe much in distictions (makes it easier to classify courses, though) so I am keen on learning about all areas : Theory, Systems and AI/ML. Recently, I have started taking Machine Learning courses at IITK to explore the field. To know more you can find below, my course list, resume and also a list of my projects with appropriate links.
 
-<h4> <a class="toplink" href="#Courses"> Courses </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a class="toplink" href="#Projects"> Projects </a> &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="/resume.pdf" target="\_blank"> Resume </a> </h4>
+<h4> <a class="toplink" href="#Courses"> Courses </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a class="toplink" href="#Projects"> Projects </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="/resume.pdf" target="\_blank"> Resume </a> </h4>
 
 <div id="Courses"> <h3> Courses </h3> </div>
 <table>

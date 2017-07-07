@@ -6,7 +6,7 @@ title: tags
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-  <a href="#{{ t | downcase }}">#{{ t | downcase }}</a>&nbsp
+  <a href="#{{ t | downcase }}">#{{ t | downcase }}</a>&nbsp;
 {% endfor %}
 
 <br /><br />
