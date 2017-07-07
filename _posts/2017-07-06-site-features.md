@@ -6,7 +6,7 @@ summary: What I did to a Jekyll template
 tags: site-features
 ---
 
-This site is created using a [Jekyll](https://jekyllrb.com/) template called ***[Hyde](https://github.com/poole/hyde)*** which is a tool for generating static sites. I have a post on <a href=""> Jekyll </a> which also covers Hyde. The main reason for choosing Hyde was because it looked simple yet appealing. I like the layout with a sidebar which serves as a navigation bar. It becomes easy to make information accesible in this layout. On top of hyde, here are some of the small things I added that led to this site:
+This site is created using a [Jekyll](https://jekyllrb.com/) template called ***[Hyde](https://github.com/poole/hyde)*** which is a tool for generating static sites. I have a <a href="{% post_url 2017-07-06-jekyll %}">post on Jekyll </a> which also covers Hyde. The main reason for choosing Hyde was because it looked simple, and yet appealing. I like the layout with a sidebar which serves as a navigation bar. It becomes easy to move around the site, in this layout. On top of hyde, here are some of the small things I added to create this site:
 
 * **Tags**, **Summary**: This was pretty easy. Simply adding a line to the yaml frontmatter achieved the purpose and runnign [Liquid](https://www.liquidmarkup.org/) code allowed me to create stuff like [listing by tags](/tags/).
 
