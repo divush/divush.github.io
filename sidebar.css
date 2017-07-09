@@ -18,8 +18,9 @@
     padding-top: 10px;
 }
 .lead {
-    font-size: 23px;
-    font-family: 'Courgette', cursive;
+    font-size: 26px;
+
+    font-family: 'Hind', sans-serif;
 }
 .sidebar {
     overflow-y: scroll;
