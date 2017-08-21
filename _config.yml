@@ -16,8 +16,7 @@ author:
   name:           Divyanshu Shende
   url:            home.iitk.ac.in/~divush
 
-gems:
-  - github-pages
+plugins:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
