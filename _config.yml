@@ -14,7 +14,7 @@ baseurl:          /
 
 author:
   name:           Divyanshu Shende
-  url:            home.iitk.ac.in/~divush
+  url:            divush.github.io
 
 plugins:
   - jekyll-paginate
